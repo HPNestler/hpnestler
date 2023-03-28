@@ -1,4 +1,4 @@
-### Peter Nestler's Webpage
+# Peter Nestler's Webpage
 
 ## Welcome to GitHub Pages
 
