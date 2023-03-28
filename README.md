@@ -6,6 +6,8 @@ You can use the [editor on GitHub](https://github.com/HPNestler/hpnestler/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Although check out [Biodarix](https://www.linkedin.com/company/biodarix-lifesciences-llc/) to learn more about my business.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
