@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Also check out [Biodarix](https://www.linkedin.com/company/biodarix-lifesciences-llc/) to learn more about my business.
 
-<img src="/images/Immunoscreen.jpg" alt="Immunopic" style="height: 100px; width:100px;"/>
+<img src="images/Immunoscreen.jpg" alt="Immunopic" style="height: 100px; width:100px;"/>
 
 Reissue after abandoned deployment. Trying to unfreeze deployment.
 
