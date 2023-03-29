@@ -10,6 +10,8 @@ Also check out [Biodarix](https://www.linkedin.com/company/biodarix-lifesciences
 
 <img src="/images/Immunoscreen.jpg" alt="Immunopic" style="height: 100px; width:100px;"/>
 
+Reissue after abandoned deployment.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
