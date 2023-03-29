@@ -10,7 +10,7 @@ Also check out [Biodarix](https://www.linkedin.com/company/biodarix-lifesciences
 
 <img src="/images/Immunoscreen.jpg" alt="Immunopic" style="height: 100px; width:100px;"/>
 
-Reissue after abandoned deployment.
+Reissue after abandoned deployment. Trying to unfreeze deployment.
 
 ### Markdown
 
