@@ -1,4 +1,4 @@
-# Peter Nestler's Webpage
+# Biodarix Homepage
 
 ## Welcome to GitHub Pages
 
